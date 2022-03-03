@@ -1,5 +1,3 @@
-# IPSubnetCalculator
-
 # IP Subnet Calculator.
 
 ### App ***WinForms*** che permette di realizzare il subnetting di una rete, dato un indirizzo IP ad essa appartenente.
