@@ -51,7 +51,7 @@ Click the “Generate” button to calculate the subnets.
 
 ## Contact
 
-Created by @emikode - feel free to contact me!
+Created by @emikodes - feel free to contact me!
 
 ---
 
